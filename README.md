@@ -1,17 +1,74 @@
-# washify
+LaundryGo — Laundry Booking App
 
-A new Flutter project.
+LaundryGo is a Flutter-based laundry booking application that simplifies the process of scheduling laundry pickup, selecting services, tracking orders, and managing deliveries from a single mobile application.
 
-## Getting Started
+The project is built from scratch as an independent portfolio application with a focus on real-world booking workflows, order management, API integration, and scalable Flutter development.
 
-This project is a starting point for a Flutter application.
+📱 About the Project
 
-A few resources to get you started if this is your first Flutter project:
+LaundryGo allows customers to book laundry services, select laundry preferences, schedule pickup and delivery, track order progress, and view their order history.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+The application is designed around a complete laundry-service workflow from pickup scheduling to order completion and delivery.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🎯 Problem Statement
+
+Traditional laundry services often require customers to call or visit a store to place orders and coordinate pickup and delivery.
+
+LaundryGo aims to simplify this process by providing a digital platform where customers can manage their laundry orders from one place.
+
+✨ Core Features
+🔐 Authentication
+User registration
+Login / Logout
+Profile management
+Session management
+🧺 Laundry Services
+Wash & Fold
+Dry Cleaning
+Ironing
+Premium Laundry
+Service details
+Service pricing
+📦 Order Booking
+Select laundry services
+Select clothing/items
+Specify quantity
+Add special instructions
+Select pickup address
+Choose pickup date and time
+Choose delivery date and time
+Order confirmation
+🚚 Pickup & Delivery
+Schedule pickup
+Pickup status
+Delivery status
+Order tracking
+Address management
+
+🛠️ Tech Stack
+Frontend
+Flutter
+Dart
+Riverpod
+
+Networking
+Dio
+REST APIs
+
+Backend
+Laravel
+PHP
+Laravel Sanctum
+
+Database
+MySQL
+
+Local Storage
+Hive
+SharedPreferences
+
+Development Tools
+Git
+GitHub
+Postman
+Android Studio / VS Code
